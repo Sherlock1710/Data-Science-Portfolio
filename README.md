@@ -1,2 +1,2 @@
-# Data-Science-Career
-Practical exercises of Data Science an d projects
+# Data-Science-Portfolio
+Practical exercises of Data Science and projects
